@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/Layout.astro'
+
+const meals = await Astro.glob('./diner/*.md')
+const friet = meals[1].frontmatter.title
+console.log(friet)
+const items = ['dog', 'cat', 'bird']
+---
+
+<Layout>
+  <h1>Diner</h1>
+  <ul>
+    {meals.map((meal) => (
+      <li>
+        <a href={`diner/${meal.frontmatter.title.toLowerCase().replaceAll(' ', '-')}`}>{meal.frontmatter.title}</a>
+      </li>
+    ))}
+  </ul>
+</Layout>

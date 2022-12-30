@@ -1,0 +1,17 @@
+---
+import Recipe from '../../layouts/Recipe.astro'
+
+
+export async function getStaticPaths() {
+  const meals = await Astro.glob('./*.md')
+
+  return meals.map((meal) => {
+    return {
+      params: { meal: meal.frontmatter.title.toLowerCase() },
+      props: { meal }
+    }
+  })
+}
+
+const { meal } = Astro.props
+---
