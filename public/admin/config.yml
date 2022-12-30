@@ -15,8 +15,8 @@ collections:
   - name: 'diner'
     label: 'Diner'
     folder: 'src/pages/diner'
-    create: true,
+    create: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../layouts/Recipe.astro' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'src/layouts/Recipe.astro' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
