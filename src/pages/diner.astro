@@ -12,7 +12,7 @@ const items = ['dog', 'cat', 'bird']
   <ul>
     {meals.map((meal) => (
       <li>
-        <a href={`diner/${meal.frontmatter.title.toLowerCase().replaceAll(' ', '-')}`}>{meal.frontmatter.title}</a>
+        <a href={meal.frontmatter.title.toLowerCase().replaceAll(' ', '-')}>{meal.frontmatter.title}</a>
       </li>
     ))}
   </ul>
