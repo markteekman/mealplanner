@@ -7,7 +7,7 @@ export async function getStaticPaths() {
 
   return meals.map((meal) => {
     return {
-      params: { meal: meal.frontmatter.title.toLowerCase() },
+      params: { meal: meal.frontmatter.title.toLowerCase().replaceAll(' ', '-') },
       props: { meal }
     }
   })
