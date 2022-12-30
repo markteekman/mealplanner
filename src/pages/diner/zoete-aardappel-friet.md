@@ -1,5 +1,5 @@
 ---
-layout: '../../layouts/Recipe.astro'
+layout: ../../layouts/Recipe.astro
 title: Zoete aardappel friet
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: src/layouts/Recipe.astro
+layout: ../../layouts/Recipe.astro
 title: Chicken Masala
 ---
 * Masala
