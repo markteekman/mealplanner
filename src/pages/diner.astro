@@ -1,18 +1,17 @@
 ---
 import Layout from '../layouts/Layout.astro'
 
-const meals = await Astro.glob('./diner/*.md')
-const friet = meals[1].frontmatter.title
-console.log(friet)
-const items = ['dog', 'cat', 'bird']
+const allDiners = await Astro.glob('./diner/*.md')
 ---
 
-<Layout>
+<Layout title="Diner">
   <h1>Diner</h1>
   <ul>
-    {meals.map((meal) => (
+    {allDiners.map((diner) => (
       <li>
-        <a href={meal.frontmatter.title.toLowerCase().replaceAll(' ', '-')}>{meal.frontmatter.title}</a>
+        <a href={diner.url}>
+          {diner.frontmatter.title}
+        </a>
       </li>
     ))}
   </ul>
