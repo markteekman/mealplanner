@@ -1,4 +1,20 @@
-<div>
-  <a href="/">Terug</a>
-  <slot />
-</div>
+---
+import SiteHead from '../components/SiteHead.astro'
+import Header from '../components/Header.astro'
+import Footer from '../components/Footer.astro'
+
+const { frontmatter } = Astro.props
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<SiteHead title={frontmatter.title} />
+	<body>
+    <Header />
+    <main>
+      <a href="/">Terug</a>
+      <slot />
+    </main>
+    <Footer />
+	</body>
+</html>
