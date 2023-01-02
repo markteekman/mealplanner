@@ -1,0 +1,18 @@
+---
+import Layout from '../layouts/Layout.astro'
+
+const allOthers = await Astro.glob('./overig/*.md')
+---
+
+<Layout title="Overig">
+  <h1>Overig</h1>
+  <ul>
+    {allOthers.map((other) => (
+      <li>
+        <a href={other.url}>
+          {other.frontmatter.title}
+        </a>
+      </li>
+    ))}
+  </ul>
+</Layout>

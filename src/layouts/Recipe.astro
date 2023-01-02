@@ -3,6 +3,30 @@ import SiteHead from '../components/SiteHead.astro'
 import Header from '../components/Header.astro'
 import Footer from '../components/Footer.astro'
 
+function comparePaths (path) {
+  return Astro.url.pathname.includes(path)
+}
+
+function getCurrentPath () {
+  let path
+
+  if (comparePaths('diner')) {
+    path = '/diner'
+  } else if (comparePaths('lunch')) {
+    path = '/lunch'
+  } else if (comparePaths('ontbijt')) {
+    path = '/ontbijt'
+  } else if (comparePaths('snacks')) {
+    path = '/snacks'
+  } else if (comparePaths('overig')) {
+    path = '/overig'
+  } else {
+    path = '/'
+  }
+
+  return path
+}
+
 const { frontmatter } = Astro.props
 ---
 
@@ -12,7 +36,10 @@ const { frontmatter } = Astro.props
 	<body>
     <Header />
     <main>
-      <a href="/">Terug</a>
+      <a id="back-to-overview" href={getCurrentPath()}>
+          Terug
+        </a>
+      <h1>{frontmatter.title}</h1>
       <slot />
     </main>
     <Footer />

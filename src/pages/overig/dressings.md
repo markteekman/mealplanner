@@ -1,6 +1,7 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Zoete aardappel friet
+title: Dressings
 ---
 
 Lekker.
+

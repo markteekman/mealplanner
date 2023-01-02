@@ -24,14 +24,25 @@ const { title } = Astro.props
 	html {
 		font-family: system-ui, sans-serif;
 		background-color: #F6F6F6;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+
+    @media (prefers-reduced-motion: reduce) {
+      scroll-behavior: auto;
+
+      body * {
+        animation-duration: 0s !important;
+        animation-delay: 0s !important;
+      }
+    }
 	}
 
   header,
 	main,
   footer {
-		margin: auto;
+    margin: 0 auto;
 		padding: 1.5rem;
-		max-width: 60ch;
+		width: clamp(50vw, 800px, 100%);
 	}
 
   // sticky footer on low content pages
@@ -60,4 +71,110 @@ const { title } = Astro.props
 		font-weight: 800;
 		margin: 0;
 	}
+</style>
+
+<style is:global>
+  *,
+  *::after,
+  *::before {
+    box-sizing: inherit;
+  }
+
+  blockquote,
+  body,
+  figure,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  hr,
+  li,
+  ol,
+  p,
+  pre,
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+
+  ul:where([class]) {
+    list-style: none;
+  }
+
+  button,
+  input,
+  select,
+  textarea {
+    color: inherit;
+    letter-spacing: inherit;
+    font: inherit;
+  }
+
+  input[type="text"],
+  textarea {
+    width: 100%;
+  }
+
+  fieldset {
+    padding: 0;
+    border: none;
+  }
+
+  legend {
+    margin-bottom: 0.5rem;
+    max-width: 100%;
+  }
+
+  button,
+  input,
+  textarea {
+    border: 1px solid gray;
+  }
+
+  button {
+    padding: 0.75em 1em;
+    border-radius: 0;
+    background-color: transparent;
+    line-height: 1;
+  }
+
+  button * {
+    pointer-events: none;
+  }
+
+  button:hover {
+    cursor: pointer;
+  }
+
+  embed,
+  iframe,
+  img,
+  object,
+  svg,
+  video {
+    display: block;
+    max-width: 100%;
+  }
+
+  table {
+    width: 100%;
+    table-layout: fixed;
+  }
+
+  [hidden] {
+    display: none !important;
+  }
+
+  noscript {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+
+  [tabindex="-1"] {
+    outline: none !important;
+    box-shadow: none !important;
+  }
 </style>

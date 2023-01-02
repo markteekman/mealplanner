@@ -1,5 +1,0 @@
----
-title: FRIET
----
-
-Jummy.

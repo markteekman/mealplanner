@@ -20,3 +20,35 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'lunch'
+    label: 'Lunch'
+    folder: 'src/pages/lunch'
+    create: true
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'ontbijt'
+    label: 'Ontbijt'
+    folder: 'src/pages/ontbijt'
+    create: true
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'snacks'
+    label: 'Snacks'
+    folder: 'src/pages/snacks'
+    create: true
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+   - name: 'overig'
+    label: 'Overig'
+    folder: 'src/pages/overig'
+    create: true
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }     
