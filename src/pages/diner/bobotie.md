@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Bobotie
+title: Bonen en Avocado Quesadilla
 ---
-Bobotie
+Bonen en Avocado Quesadilla
