@@ -15,9 +15,21 @@ const { title } = Astro.props
 	<SiteHead title={title} />
 	<body>
     <Header />
-    <main>
+    <main class="space-content">
       <slot />
     </main>
     <Footer />
 	</body>
 </html>
+
+<style lang="scss" is:global>
+  .recipes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+
+    li {
+      flex-basis: calc(50% - 1rem); 
+    }
+  }
+</style>

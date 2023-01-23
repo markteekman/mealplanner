@@ -1,38 +1,44 @@
 ---
 import Layout from '../layouts/Layout.astro'
-import Card from '../components/Card.astro'  
+import MagicText from '../components/MagicText.astro'
+import CategoryCard from '../components/CategoryCard.astro'  
 ---
 
 <Layout title="Welcome to Astro.">
-  <h1>Tijd voor <span class="text-gradient">Mealpreps</span></h1>
+  <MagicText />
   <p class="instructions">
     De mealprep app is bedacht op <strong>makkelijke</strong> en <strong>gezonde</strong> gerechten. Opgedeeld in verschillende categorieen kun je met deze mealplanner een gehele weekplanning samenstellen en je boodschappen er op afstemmen.
   </p>
   <ul role="list" class="link-card-grid">
-    <Card
+    <CategoryCard
       href="/diner"
       title="🥗 Diner"
-      body="Seizoensgebonden en vegatarische maaltijden."
+      body="Seizoensgebonden en vegetarische maaltijden, divers en lekker."
     />
-    <Card
+    <CategoryCard
       href="/lunch"
       title="🥪 Lunch"
       body="Wraps, brood, shakes, diverse mogelijkheden."
     />
-    <Card
+    <CategoryCard
       href="Ontbijt"
       title="🥞 Ontbijt"
       body="Pannekoeken, overnight oats, wafels, jummy."
     />
-    <Card
+    <CategoryCard
       href="/snacks"
       title="🍪 Snacks"
       body="Wie zegt dat snacken niet gezond en lekker kan zijn?"
     />
-    <Card
+    <CategoryCard
       href="/overig"
       title="🍨 Overig"
-      body="Dressings, desserts, drankjes en al het exrta's."
+      body="Dressings, desserts, drankjes en al het exrtas."
+    />
+    <CategoryCard
+      href="mailto:mark.teekman@gmail.com"
+      title="🧐 Ideeën"
+      body="Heb je nog goede ideeën voor de planner? Laat het ons weten!"
     />
   </ul>
 </Layout>
@@ -71,7 +77,7 @@ import Card from '../components/Card.astro'
 
 	.link-card-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(34ch, 1fr));
 		gap: 1rem;
 		padding: 0;
 	}
