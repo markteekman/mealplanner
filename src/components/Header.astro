@@ -2,6 +2,9 @@
   <nav>
     <ul>
       <li>
+        <a href="/">Home</a> 
+      </li>      
+      <li>
         <a href="/diner">Diner</a> 
       </li>
       <li>
@@ -16,6 +19,9 @@
       <li>
         <a href="/overig">Overig</a> 
       </li>
+      <li>
+        <a href="/admin">Admin</a> 
+      </li>
     </ul>
   </nav>
 </header>
@@ -24,7 +30,16 @@
   nav ul {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 1rem;
     list-style-type: none;
+  }
+
+  li:first-of-type {
+    margin-right: auto;
+  }
+
+  li:last-of-type {
+    margin-left: auto;
   }
 </style>

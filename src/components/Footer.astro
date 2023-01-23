@@ -1,8 +1,10 @@
 ---
 import NetlifyIdentity from './NetlifyIdentity.svelte'
+
+const currentYear = new Date().getFullYear()
 ---
 
 <footer>
-  Footer
+  <p>&copy; 2022-{currentYear} | <a href="https://markteekman.nl">Mark Teekman</a></p>
   <NetlifyIdentity />
 </footer>

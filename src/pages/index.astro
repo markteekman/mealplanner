@@ -1,39 +1,43 @@
 ---
 import Layout from '../layouts/Layout.astro'
+import Card from '../components/Card.astro'  
 ---
 
 <Layout title="Welcome to Astro.">
   <h1>Tijd voor <span class="text-gradient">Mealpreps</span></h1>
   <p class="instructions">
-    Hieronder vind je een overzicht van <strong>maaltijden</strong>. Deze lijst wordt langzaamaan verdeer aangevuld en over een tijdje zullen ook <strong>snacks</strong> en andere categorieen worden toegevoegd.
+    De mealprep app is bedacht op <strong>makkelijke</strong> en <strong>gezonde</strong> gerechten. Opgedeeld in verschillende categorieen kun je met deze mealplanner een gehele weekplanning samenstellen en je boodschappen er op afstemmen.
   </p>
-  
-  <!-- <ul role="list" class="link-card-grid">
+  <ul role="list" class="link-card-grid">
     <Card
-      href="https://docs.astro.build/"
-      title="Documentation"
-      body="Learn how Astro works and explore the official API docs."
+      href="/diner"
+      title="🥗 Diner"
+      body="Seizoensgebonden en vegatarische maaltijden."
     />
     <Card
-      href="https://astro.build/integrations/"
-      title="Integrations"
-      body="Supercharge your project with new frameworks and libraries."
+      href="/lunch"
+      title="🥪 Lunch"
+      body="Wraps, brood, shakes, diverse mogelijkheden."
     />
     <Card
-      href="https://astro.build/themes/"
-      title="Themes"
-      body="Explore a galaxy of community-built starter themes."
+      href="Ontbijt"
+      title="🥞 Ontbijt"
+      body="Pannekoeken, overnight oats, wafels, jummy."
     />
     <Card
-      href="https://astro.build/chat/"
-      title="Community"
-      body="Come say hi to our amazing Discord community. ❤️"
+      href="/snacks"
+      title="🍪 Snacks"
+      body="Wie zegt dat snacken niet gezond en lekker kan zijn?"
     />
-  </ul> -->
+    <Card
+      href="/overig"
+      title="🍨 Overig"
+      body="Dressings, desserts, drankjes en al het exrta's."
+    />
+  </ul>
 </Layout>
 
 <style>
-
 	.text-gradient {
 		background-image: var(--accent-gradient);
 		-webkit-background-clip: text;
@@ -41,7 +45,9 @@ import Layout from '../layouts/Layout.astro'
 		background-size: 400%;
 		background-position: 0%;
 	}
+
 	.instructions {
+    font-size: large;
 		line-height: 1.6;
 		margin: 1rem 0;
 		border: 1px solid rgba(var(--accent), 25%);
@@ -49,6 +55,7 @@ import Layout from '../layouts/Layout.astro'
 		padding: 1rem;
 		border-radius: 0.4rem;
 	}
+
 	.instructions code {
 		font-size: 0.875em;
 		font-weight: bold;
@@ -57,9 +64,11 @@ import Layout from '../layouts/Layout.astro'
 		border-radius: 4px;
 		padding: 0.3em 0.45em;
 	}
+
 	.instructions strong {
 		color: rgb(var(--accent));
 	}
+
 	.link-card-grid {
 		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
