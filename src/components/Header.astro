@@ -1,45 +1,49 @@
+---
+import Navigation from '../components/Navigation.astro'
+import { SkipLinks } from 'accessible-astro-components'
+---
+
 <header>
-  <nav>
-    <ul>
-      <li>
-        <a href="/">Home</a> 
-      </li>      
-      <li>
-        <a href="/diner">Diner</a> 
-      </li>
-      <li>
-        <a href="/lunch">Lunch</a> 
-      </li>
-      <li>
-        <a href="/ontbijt">Ontbijt</a> 
-      </li>
-      <li>
-        <a href="/snacks">Snacks</a> 
-      </li>
-      <li>
-        <a href="/overig">Overig</a> 
-      </li>
-      <li>
-        <a href="/admin">Admin</a> 
-      </li>
-    </ul>
-  </nav>
+  <SkipLinks />
+  <Navigation>
+    <li class="menu-item">
+      <a href="/diner/">Diner</a>
+    </li>
+    <li class="menu-item">
+      <a href="/lunch/">Luch</a>
+    </li>
+    <li class="menu-item">
+      <a href="/ontbijt/">Ontbijt</a>
+    </li>
+    <li class="menu-item">
+      <a href="/snacks/">Snacks</a>
+    </li>
+    <li class="menu-item">
+      <a href="/Overig/">Overig</a>
+    </li>
+    <li class="menu-item">
+      <a href="https://www.buymeacoffee.com/markteekman" title="external link" rel="external noopener noreferrer">❤ Support️</a>
+    </li>
+  </Navigation>
 </header>
 
-<style>
-  nav ul {
+<style lang="scss">
+  @use '../assets/scss/base/breakpoint' as *;
+
+  .container {
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
     gap: 1rem;
-    list-style-type: none;
-  }
 
-  li:first-of-type {
-    margin-right: auto;
-  }
+    @include breakpoint(medium) {
+      flex-wrap: nowrap;
+    }
 
-  li:last-of-type {
-    margin-left: auto;
+    img {
+      max-height: 40px;
+    }
   }
 </style>
