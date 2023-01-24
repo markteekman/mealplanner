@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Geroosterde Bospeen met Rijst en Appelmoes
+title: Geroosterde Bospeen Friet Appelmoes
 ---
-Geroosterde Bospeen met Rijst en Appelmoes
+Geroosterde Bospeen Friet Appelmoes
