@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: AvocadoPesto met CourgettePasta
+title: AvocadoPesto CourgettePasta
 ---
-AvocadoPesto met CourgettePasta
+AvocadoPesto CourgettePasta
