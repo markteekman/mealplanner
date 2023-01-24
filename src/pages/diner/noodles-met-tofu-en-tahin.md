@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Noedels met Tofu en Tahin
+title: Noedels Tofu Tahin
 ---
-Noedels met Tofu en Tahin
+Noedels Tofu Tahin
