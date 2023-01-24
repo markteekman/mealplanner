@@ -2,5 +2,4 @@
 layout: ../../layouts/Recipe.astro
 title: Bananen brood
 ---
-
-Lekker.
+Bananen brood
