@@ -1,6 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Gevulde pannekoek
+title: Appel Pannenkoek
 ---
-
-Lekker.
+Appel Pannenkoek
