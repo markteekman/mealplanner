@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: AardappelCurry met Boerenkool en Kokosmelk
+title: Aardappel Curry Boerenkool Kokosmelk
 ---
 AardappelCurry met Boerenkool en Kokosmelk
