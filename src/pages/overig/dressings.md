@@ -1,7 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Dressings
+title: Kimchi
 ---
-
-Lekker.
-
+Kimchi
