@@ -6,7 +6,8 @@ const allOthers = await Astro.glob('./overig/*.md')
 ---
 
 <Layout title="Overig">
-  <h1>Overig</h1>
+  <h1>🍨 Overig</h1>
+  <p class="size-20">Dressings, desserts, drankjes, kuidenmixjes, en al het andere.</p>
   <ul class="recipes">
     {allOthers.map((other) => (
       <RecipeCard href={other.url}>

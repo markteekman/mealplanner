@@ -6,7 +6,8 @@ const allSnacks = await Astro.glob('./snacks/*.md')
 ---
 
 <Layout title="Snacks">
-  <h1>Snacks</h1>
+  <h1>🍪 Snacks</h1>
+  <p class="size-20">Wie zegt dat snacken niet gezond en lekker kan zijn? Let's go!</p>
   <ul class="recipes">
     {allSnacks.map((snack) => (
       <RecipeCard href={snack.url}>
