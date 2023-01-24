@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Gevulde Zoete Aardappel met Zwarte Bonen
+title: Gevulde Zoete Aardappel Zwarte Bonen
 ---
-Gevulde Zoete Aardappel met Zwarte Bonen
+Gevulde Zoete Aardappel Zwarte Bonen
