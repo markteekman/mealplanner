@@ -1,18 +1,17 @@
 ---
 import Layout from '../layouts/Layout.astro'
+import RecipeCard from '../components/RecipeCard.astro'
 
 const allOthers = await Astro.glob('./overig/*.md')
 ---
 
 <Layout title="Overig">
   <h1>Overig</h1>
-  <ul>
+  <ul class="recipes">
     {allOthers.map((other) => (
-      <li>
-        <a href={other.url}>
-          {other.frontmatter.title}
-        </a>
-      </li>
+      <RecipeCard href={other.url}>
+        {other.frontmatter.title}
+      </RecipeCard>
     ))}
   </ul>
 </Layout>
