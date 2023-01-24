@@ -1,6 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Zoete aardappel friet
+title: Zoete Aardappel Friet
 ---
-
-Lekker.
+Zoete Aardappel Friet
