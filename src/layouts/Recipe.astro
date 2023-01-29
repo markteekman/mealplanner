@@ -33,7 +33,7 @@ const { frontmatter } = Astro.props
 <!DOCTYPE html>
 <html lang="nl">
 	<SiteHead title={frontmatter.title} />
-	<body>
+	<body class="recipe">
     <Header />
     <main class="space-content">
       <a id="back-to-overview" href={getCurrentPath()}>
@@ -45,3 +45,9 @@ const { frontmatter } = Astro.props
     <Footer />
 	</body>
 </html>
+
+<style is:global>
+  .recipe img {
+    border-radius: 10px;
+  }
+</style>
