@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Hummus
+title: Zelfgemaakte Hummus
 ---
 Hummus
