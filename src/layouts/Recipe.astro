@@ -37,8 +37,8 @@ const { frontmatter } = Astro.props
     <Header />
     <main class="space-content">
       <a id="back-to-overview" href={getCurrentPath()}>
-          Terug naar overzicht
-        </a>
+        	&larr; Terug naar overzicht
+      </a>
       <h1>{frontmatter.title}</h1>
       <slot />
     </main>
