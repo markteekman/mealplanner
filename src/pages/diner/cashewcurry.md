@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Cashewcurry
+title: Cashewcurry Spliterwten Gekookte Aardappel
 ---
-Cashewcurry
+<https://savoryspin.com/easy-cashew-curry/>
