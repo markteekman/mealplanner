@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Gado Gado met Tempeh
+title: Gado Gado, Tempeh, Sperziebonen, Rijst
 ---
-Gado Gado met Tempeh
+Gado Gado, Tempeh, Sperziebonen, Rijst
