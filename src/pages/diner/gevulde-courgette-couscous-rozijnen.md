@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Gevulde Courgette Couscous Rozijnen
+title: Gevulde Puntpaprika, Couscous, Rozijnen, Courgette, Geitenkaas
 ---
-Gevulde Courgette Couscous Rozijnen
+https://15gram.be/recepten/gevulde-puntpaprika-s-met-couscous-zongedroogde-tomaat-en-geitenkaas
