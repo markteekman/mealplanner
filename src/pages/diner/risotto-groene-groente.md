@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Risotto Groene Groente
+title: Groene Risotto, Courgette, Erwten, Asperges
 ---
-Risotto Groene Groente
+https://www.greengypsyspices.com/recepten/gezonde-risotto/
