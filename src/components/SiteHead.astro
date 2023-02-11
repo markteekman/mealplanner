@@ -21,7 +21,19 @@ const { title } = Astro.props
 	:root {
 		--accent: 124, 58, 237;
 		--accent-gradient: linear-gradient(45deg, rgb(var(--accent)), #da62c4 30%, white 60%);
+		--accent-gradient-dark: linear-gradient(45deg, rgb(var(--accent)), #da62c4 30%, var(--neutral-900) 60%);
+    --background: var(--neutral-100);
+    --font-color: var(--neutral-900);
 	}
+
+  .darkmode {
+    --background: #161618;
+    --font-color: var(--neutral-100);
+  }
+
+  body {
+    background-color: var(--background-color);
+  }
 
 	html {
 		font-family: system-ui, sans-serif;

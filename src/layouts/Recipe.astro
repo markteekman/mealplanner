@@ -12,6 +12,8 @@ function getCurrentPath () {
 
   if (comparePaths('diner')) {
     path = '/diner'
+  } else if (comparePaths('bijgerecht')) {
+    path = '/bijgerecht'
   } else if (comparePaths('lunch')) {
     path = '/lunch'
   } else if (comparePaths('ontbijt')) {
@@ -21,7 +23,7 @@ function getCurrentPath () {
   } else if (comparePaths('overig')) {
     path = '/overig'
   } else {
-    path = '/'
+    path = '/404'
   }
 
   return path

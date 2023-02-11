@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/Layout.astro'
+import RecipeCard from '../components/RecipeCard.astro'
+
+const allSidedish = await Astro.glob('./bijgerecht/*.md')
+---
+
+<Layout title="Bijgerecht">
+  <h1>🥗 Bijgerecht</h1>
+  <p class="size-20">Aanvullend op de maaltijd of als opzichzelfstaand.</p>
+  <ul class="recipes">
+    {allSidedish.map((sidedish) => (
+      <RecipeCard href={sidedish.url}>
+        {sidedish.frontmatter.title}
+      </RecipeCard>
+    ))}
+  </ul>
+</Layout>
+

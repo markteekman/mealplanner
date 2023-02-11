@@ -19,14 +19,14 @@ const { href, title, body } = Astro.props;
 	</a>
 </li>
 
-<style lang="scss">
+<style lang="scss" is:global>
   @use '../assets/scss/base/size' as *;
 
 	.link-card {
 		list-style: none;
 		display: flex;
 		padding: 0.15rem;
-		background-color: white;
+		background-color: var(--background);
 		background-image: var(--accent-gradient);
 		background-size: 400%;
 		border-radius: 0.5rem;
@@ -35,7 +35,8 @@ const { href, title, body } = Astro.props;
 		box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
 	}
 
-	.link-card > a {
+	.link-card > a,
+  .link-card > a:visited {
 		width: 100%;
 		text-decoration: none;
 		line-height: 1.4;
@@ -52,10 +53,10 @@ const { href, title, body } = Astro.props;
     @include size-30;
 	}
 
-	p {
+	.link-card p {
 		margin-top: 0.5rem;
 		margin-bottom: 0;
-		color: #444;
+		color: var(--neutral-900);
     @include size-18;
 	}
 
