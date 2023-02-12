@@ -4,7 +4,7 @@ title: ✅ Bananen Brood
 ---
 ![](/images/uploads/bananen-brood.jpg)
 
-Zonder olie en ei. Simpel en lekker om te maken. Bananen blenden, bij de droge ingrediënten doen en tot een semi stevig beslag kloppen. **~30 minuten in de oven op 170 °C**. Af en toe prikken, als het bijna droog is eruit halen. test
+Zonder olie en ei. Simpel en lekker om te maken.
 
 ## Ingrediënten
 
@@ -22,3 +22,10 @@ Zonder olie en ei. Simpel en lekker om te maken. Bananen blenden, bij de droge i
 * Pecan- of walnoten
 * Rozijnen
 * Sweet rub in plaats van kardemon
+
+## Bereiding
+
+1. Bananen blenden
+2. Mengen met alle ingredienten tot een semi stevig beslag
+3. **30 minuten in de oven op 170 °C**
+4. Af en toe prikken, als het bijna droog is eruit halen
