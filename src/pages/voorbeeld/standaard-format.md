@@ -2,4 +2,16 @@
 layout: ../../layouts/Recipe.astro
 title: Standaard Format
 ---
-Invullen
+Intro.
+
+## Ingrediënten
+
+* ...
+
+## Variaties
+
+* ...
+
+## Bereiding
+
+1. ...
