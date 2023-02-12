@@ -60,3 +60,11 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }     
+      - name: 'overig'
+    label: 'Voorbeeld'
+    folder: 'src/pages/voorbeeld'
+    create: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' } 
