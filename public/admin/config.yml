@@ -20,6 +20,14 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'bijgerecht'
+    label: 'Bijgerecht'
+    folder: 'src/pages/bijgerecht'
+    create: true
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'lunch'
     label: 'Lunch'
     folder: 'src/pages/lunch'
@@ -36,9 +44,9 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'snacks'
-    label: 'Snacks'
-    folder: 'src/pages/snacks'
+  - name: 'snack'
+    label: 'Snack'
+    folder: 'src/pages/snack'
     create: true
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
