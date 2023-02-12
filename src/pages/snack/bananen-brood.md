@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Bananen Brood
+title: ✅ Bananen Brood
 ---
 ![](/images/uploads/bananen-brood.jpg)
 
