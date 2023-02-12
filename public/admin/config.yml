@@ -61,7 +61,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }     
       - name: 'overig'
-    label: 'Voorbeeld'
+    label: 'voorbeeld'
     folder: 'src/pages/voorbeeld'
     create: false
     fields:
