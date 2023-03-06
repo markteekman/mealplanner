@@ -2,8 +2,6 @@
 layout: ../../layouts/Recipe.astro
 title: Ⓥ Wortelbrood met Walnoten en Pompoenpitten
 ---
-
-
 * 1 handje walnoten
 * 200 g wortels
 * 2 cm verse gember
@@ -15,15 +13,11 @@ title: Ⓥ Wortelbrood met Walnoten en Pompoenpitten
 * 80 ml kokosolie
 * 2﻿ el chiazaad
 * 4﻿ el water
-* 150 g honing
+* 150 g honing of agavesiroop
 * 1 handje pompoenpitten
 * zout
 
-
-
 1. M﻿aak een chia-ei; meng 2 el chiazaad met de 4 el water en laat staan.
-
-
 2. B﻿reng een pan met water aan de kook en kook 150 gr wortels hierin gaar in 10-15 minuten.
 3. G﻿iet de wortels af en pureer ze samen met het citroensap in een keukenmachine tot een puree. 
 4. S﻿chil en rasp de gember. 
