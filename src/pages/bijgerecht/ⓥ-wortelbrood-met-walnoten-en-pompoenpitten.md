@@ -13,7 +13,7 @@ title: Ⓥ Wortelbrood met Walnoten en Pompoenpitten
 * 80 ml kokosolie
 * 2﻿ el chiazaad
 * 4﻿ el water
-* 150 g honing of agavesiroop
+* 70 g honing of agavesiroop
 * 1 handje pompoenpitten
 * zout
 
