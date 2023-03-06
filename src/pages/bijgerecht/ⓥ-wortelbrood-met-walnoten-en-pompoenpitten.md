@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Wortelbrood met walnoten en pompoenpitten
+title: Ⓥ Wortelbrood met Walnoten en Pompoenpitten
 ---
 
 
