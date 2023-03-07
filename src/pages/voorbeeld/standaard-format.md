@@ -2,7 +2,11 @@
 layout: ../../layouts/Recipe.astro
 title: Standaard Format
 ---
-Intro.
+
+
+Ⓥ
+
+R﻿ecept voor 
 
 ## Ingrediënten
 
