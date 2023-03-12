@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Mac&Cheese met Bloemkool
+title: Mac&Cheese met Bloemkoolsaus
 ---
 
 
