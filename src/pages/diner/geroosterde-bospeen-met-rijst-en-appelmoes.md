@@ -16,6 +16,8 @@ R﻿ecept voor 2 personen
 ## Bereiding
 
 1. V﻿erwarm de oven op 180gr. 
+
+
 2. S﻿chrap en spoel de wortelen en snijd de uiteinden eraf. Halveer de wortelen en leg ze op een bakpapier beklede ovenschaal.
 3. B﻿esprenkel met wat olijfolie, zout en peper en bak ze in 25 minuten gaar. Als ze gaar zijn besprenkel je wat balsamico azijn erover en serveer direct.
 4. B﻿ereid je friet. 
