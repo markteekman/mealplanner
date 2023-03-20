@@ -2,10 +2,12 @@
 layout: ../../layouts/Recipe.astro
 title: Ⓥ Wortelbrood met Walnoten en Pompoenpitten
 ---
-* 1 handje walnoten
+R﻿ecept voor 10 plakken
+
 * 200 g wortels
 * 2 cm verse gember
 * 2 el citroensap
+* h﻿andje walnoten
 * 0﻿,5 tl vanille
 * 250 g volkorenmeel
 * 3 tl koekkruiden
