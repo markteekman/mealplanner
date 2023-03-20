@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Laura's Curry met Naanbrood
+title: Ⓥ Laura's Curry met Naanbrood
 ---
 
 
