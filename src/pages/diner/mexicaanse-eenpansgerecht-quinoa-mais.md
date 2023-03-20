@@ -1,5 +1,15 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Mexicaanse Eenpansgerecht Quinoa Mais
+title: Ⓥ Mexicaanse Eenpansgerecht met Quinoa en Mais
 ---
-Mexicaanse Eenpansgerecht Quinoa Mais
+R﻿eIngrediëntencept voor 
+
+* ...
+
+## Variaties
+
+* ...
+
+## Bereiding
+
+1. ...
