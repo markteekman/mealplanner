@@ -2,7 +2,7 @@
 layout: ../../layouts/Recipe.astro
 title: Bloemkoolovenschotel met Paprika, Appel en Kerrie
 ---
-R﻿ecept voor 2 personen
+R﻿ecept voor 3 personen
 
 ## Ingrediënten
 
