@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Pasta Fettuccine Alfredo met Erwten
+title: Fettuccine Alfredo met Erwten
 ---
 
 
