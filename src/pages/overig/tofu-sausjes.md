@@ -4,13 +4,9 @@ title: Tofu Sausjes
 ---
 ## Bereiding
 
-1. B﻿ak de uitgelekte en gesneden blok tofu voor 12-15 minuten in de airfryer op 180 graden. (A﻿ls je de tofu voor het bakken bedekt met maizena, krijg je een krokanter laagje)
-2. K﻿ies ondertussen je saus en voeg alle ingrediënten toe aan een koekepan en laat die sudderen terwijl de airfryer aan staat.
+1. B﻿ak de uitgelekte en in blokjes gesneden blok tofu voor 12-15 minuten in de airfryer op 180 graden. (A﻿ls je de tofu voor het bakken bedekt met maizena, krijg je een krokanter laagje).
+2. K﻿ies ondertussen je saus en voeg alle ingrediënten toe aan een pan en laat alles sudderen terwijl de airfryer aan staat.
 3. A﻿ls de tofu klaar is voeg je het toe aan je inmiddels ingedikte saus, even roeren en dan kun je het serveren. 
-
-
-
-
 
 ## Variaties
 
@@ -25,8 +21,6 @@ title: Tofu Sausjes
   * 1﻿ tl chilivlokken of 2 tl sambal
   * 1﻿ el maizena
   * 3﻿ el water
-
-
 * S﻿ticky Tofu
 
   * ﻿5 el sojasaus
