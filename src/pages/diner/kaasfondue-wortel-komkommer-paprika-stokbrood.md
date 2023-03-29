@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Kaasfondue Wortel Komkommer Paprika Stokbrood
+title: Kaasfondue met Wortel, Komkommer, Paprika en Stokbrood
 ---
 R﻿ecept voor 3 personen
 
@@ -10,7 +10,7 @@ R﻿ecept voor 3 personen
 * 2﻿50 ml droge witte wijn
 * 3﻿00 gr emmentaler in blokjes of geraspt
 * 3﻿00 gr gruyere in blokjes of geraspt
-* 1﻿,5 el maizena  met 4 el kirsch of water gemeng
+* 1﻿,5 el maizena  met 4 el kirsch of water gemengd
 * s﻿nufje (versgeraspte) nootmuskaat
 * O﻿m te dippen:
 
