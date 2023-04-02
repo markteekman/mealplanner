@@ -21,6 +21,8 @@ R﻿ecept voor 12 repen
 ## Bereiding
 
 1. Verwarm de oven voor op 165 graden en rooster alle noten 10 minuten op een beklede bakplaat.
+
+
 2. S﻿nijd of had de noten en schep ze in een mengkom.
 3. Voeg alles toe muv de stroop.
 4. B﻿ekleed een bakvorm van 20x20 met bakpapier
