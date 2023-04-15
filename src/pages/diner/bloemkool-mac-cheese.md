@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Mac&Cheese met Bloemkoolsaus
+title: Pasta Ovenschotel met Bloemkoolsaus
 ---
 
 
