@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Courgetti spaghetti met groene pesto van avocado
+title: Ⓥ Courgetti Spaghetti met Avocado Pesto
 ---
 
 
