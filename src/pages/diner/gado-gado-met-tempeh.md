@@ -2,8 +2,6 @@
 layout: ../../layouts/Recipe.astro
 title: Ⓥ Gado Gado met Tempeh, Sperziebonen en Rijst
 ---
-
-
 R﻿ecept voor 2 personen
 
 ## Ingrediënten
@@ -28,13 +26,10 @@ R﻿ecept voor 2 personen
 
 ## Bereiding
 
-1. M﻿ix alle marinade ingrediënten muv maizena samen
-
-
-2. S﻿nijd de tempeh in gelijke blokjes van 1,5 cm en voeg toe aan de marinade en laat het 20 min trekken.
+1. M﻿ix alle marinade ingrediënten samen
+2. S﻿nijd de tempeh in gelijke blokjes van 1,5 cm en bak je tempeh in een airfryer voor circa 12 minuten op 180 graden.
 3. B﻿ereid de rijst en sperziebonen volgens verpakking.
-4. B﻿ak de tauge kort met wat boter in een pan.
-5. Verwijder de marinade en bak de tempeh zonder marinade in 12 min in de airfryer op 180gr. 
-6. V﻿oeg de maizena aan de verwijderde marinade en breng kort, 3 min, tot kook. 
-7. V﻿oeg je gebakken tempeh aan de marinade.
-8. M﻿aak wat satesaus door wat melk, pindakaas, ketjap en sambal tot kookpunt te brengen.
+4. B﻿ak de tauge kort met wat boter in een pan. 
+5. Breng de marinade tot kook.
+6. V﻿oeg je gebakken tempeh aan de marinade en laat de boel een beetje inkoken tot je een wat sticky saus hebt.
+7. M﻿aak  evt wat satesaus door wat melk, pindakaas, ketjap en sambal op een vuurtje in te dikken.
