@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Pompoensoep
+title: Ⓥ Soep van Pompoen
 ---
 R﻿ecept voor 3 personen
 
