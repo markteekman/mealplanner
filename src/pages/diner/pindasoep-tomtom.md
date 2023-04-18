@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Pindasoep met Tomtom
+title: Ⓥ Soep van Pinda met Tomtom
 ---
 R﻿ecept voor 3 personen
 
