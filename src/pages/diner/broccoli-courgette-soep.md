@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Broccoli Courgette Soep
+title: Ⓥ Soep van Broccoli en Courgette
 ---
 
 
