@@ -26,10 +26,10 @@ R﻿ecept voor 2 personen
 
 ## Bereiding
 
-1. M﻿ix alle marinade ingrediënten samen
-2. S﻿nijd de tempeh in gelijke blokjes van 1,5 cm en bak je tempeh in een airfryer voor circa 12 minuten op 180 graden.
-3. B﻿ereid de rijst en sperziebonen volgens verpakking.
-4. B﻿ak de tauge kort met wat boter in een pan. 
+1. S﻿nijd de tempeh in gelijke blokjes van 1,5 cm en bak je tempeh in een airfryer voor circa 12 minuten op 180 graden.
+2. Kook de rijst en sperziebonen volgens verpakking.
+3. B﻿ak de tauge kort met wat boter in een pan.
+4. M﻿ix alle marinade ingrediënten samen.
 5. Breng de marinade tot kook.
 6. V﻿oeg je gebakken tempeh aan de marinade en laat de boel een beetje inkoken tot je een wat sticky saus hebt.
 7. M﻿aak  evt wat satesaus door wat melk, pindakaas, ketjap en sambal op een vuurtje in te dikken.
