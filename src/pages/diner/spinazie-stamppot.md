@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Spinazie Stamppot met tofu
+title: Ⓥ Spinazie Stamppot met Tofu
 ---
 
 
