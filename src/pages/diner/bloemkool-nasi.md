@@ -30,6 +30,8 @@ R﻿ecept voor 3 personen
 ## Bereiding
 
 1. ﻿M﻿eng de tofu met alle ingrediënten. Plaats op een bakplaat en giet er wat honing/agave eroverheen. B﻿ak de tofu 25 min op 175 graden. 
+
+
 2. Maal de bloemkool fijn in een hakmachine. 
 3. S﻿nipper de ui, peper en knoflook en fruit deze aan in een pan. 
 4. V﻿oeg alle overige ingrediënten toe en bak zo'n 8 minuten tot de bloemkoolrijst gaar is.
