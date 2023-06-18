@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Zomerse Pilav met Plataan
+title: Ⓥ Zomerse Pilav
 ---
 
 
