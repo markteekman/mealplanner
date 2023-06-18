@@ -2,8 +2,6 @@
 layout: ../../layouts/Recipe.astro
 title: Ⓥ Verse Pesto Recept
 ---
-
-
 R﻿ecept voor 4 porties
 
 ## Ingrediënten
@@ -19,8 +17,6 @@ R﻿ecept voor 4 porties
 ## Bereiding
 
 1. V﻿oeg alle ingredienten met 3 el olijfolie toe aan de keukenmachine en vermaal het tot een groene massa. 
-2. v﻿oeg nog wat meer olijfolie toe, afhankelijk van hoe dik of dun je het wilt hebben. 
 
-## Variaties
 
-* ...
+2. v﻿oeg nog wat meer olijfolie toe, afhankelijk van hoe dik of dun je het wilt hebben.
