@@ -19,7 +19,7 @@ R﻿ecept voor 4 personen
   * m﻿espunt nootmuskaat
   * m﻿espunt kardemom
   * m﻿espunt kruidnagel
-* 2﻿ blokken tofu
+* 2﻿ blokken tofu, uitgelekt
 * 3﻿00 gr aardappels
 * 1﻿ ui
 * 2﻿ el bruine basterdsuiker
