@@ -1,5 +1,21 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Chocolade taart
+title: Ⓥ Chocolade taart
 ---
-Z
+
+
+R﻿ecept voor 
+
+
+
+## Ingrediënten
+
+* ...
+
+## Bereiding
+
+1. ...
+
+## Variaties
+
+* ...
