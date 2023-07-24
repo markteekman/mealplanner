@@ -1,10 +1,10 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Chocolade taart
+title: Voorbeeld
 ---
 R﻿ecept voor 
 
-
+Ⓥ
 
 ## Ingrediënten
 
