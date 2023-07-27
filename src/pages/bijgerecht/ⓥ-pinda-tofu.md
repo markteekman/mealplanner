@@ -1,9 +1,7 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Pinda Tofu
+title: Ⓥ Pinda Tofu met rijst en broccoli
 ---
-
-
 R﻿ecept voor 2 personen
 
 ## Ingrediënten
@@ -20,6 +18,5 @@ R﻿ecept voor 2 personen
 ## Bereiding
 
 1. ﻿M﻿eng de tofu met alle ingrediënten. Plaats op een bakplaat en giet er wat honing/agave eroverheen. 
-
-
 2. B﻿ak de tofu 25 min op 175 graden.
+3. K﻿ook de rijst en broccoli gaar en serveer erbij.
