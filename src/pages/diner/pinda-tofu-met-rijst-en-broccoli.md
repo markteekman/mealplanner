@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Pinda Tofu met Rijst en Broccoli
+title: Ⓥ Pinda Tofu met Rijst en Broccoli
 ---
 
 
