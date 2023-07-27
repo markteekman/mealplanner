@@ -19,6 +19,8 @@ R﻿ecept voor 3 personen
 ## Bereiding
 
 1. S﻿nijd en kook de aardappels en bloemkool gaar.
+
+
 2. S﻿nij de paprika en appel in stukjes
 3. V﻿oeg en meng alles samen in een ovenschotel en verdeel de kaas als laatst erop. 
 4. Z﻿et de ovenschotel voor 10-15 minuten in de oven tot de kaas gesmolten is.
