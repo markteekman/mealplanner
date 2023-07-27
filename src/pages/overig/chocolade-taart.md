@@ -1,12 +1,8 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Chocolade taart
+title: Ⓥ Chocolade taart, moist
 ---
-
-
 R﻿ecept voor 8 stukjes
-
-
 
 ## Ingrediënten
 
@@ -22,23 +18,20 @@ R﻿ecept voor 8 stukjes
 
 Frosting 
 
-* * 2tl cacaopoeder
-  * 3 el poedersuiker
+* * 3 el poedersuiker
   * 180 ml melk
-
-
+  * 2﻿ el cacaopoeder
 
 ## Bereiding
 
 1. Verwarm de oven tot 180 graden.
-2. Gebruik een 20cm ronde bakvorm en ver deze in met boter en bloem en leg er een bakpapiervel onder.
+2. Gebruik een 20cm ronde bakvorm en vet deze in met boter en bloem en leg er een bakvel onder.
 3. Meng de bloem, cacaopoeder, bakpoeder en zout samen en zeef het geheel 2 keer.
 4. Voeg de overige ingrediënten toe en roer tot alle bloem gemengd is (niet doormengen).
 5. Giet het in de pan en bak in 30-35 minuten gaar.
 6. Goed af laten koelen alvorens je de glazuur eroverheen giet. 
-
-   Deze taart is het lekkerst de volgende dag. 
-
+7. Voor het glazuur: giet alles in de pan en breng langzaam aan de kook. Als de suikerkristallen zijn opgelost is het klaar en giet je het over je afgekoelde taart.
 
 
-   Voor het glazuur: giet alles in de pan en breng langzaam aan de kook. Als de suikerkristallen zijn opgelost is het klaar en giet je het over je taart.
+
+Deze taart is het lekkerst de volgende dag.
