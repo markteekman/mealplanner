@@ -2,15 +2,13 @@
 layout: ../../layouts/Recipe.astro
 title: Ⓥ Massaman Curry met Tofu en Aardappel
 ---
-
-
 R﻿ecept voor 4 personen
 
 ## Ingrediënten
 
 * v﻿oor de currypasta:
 
-  * 1﻿ ui
+  * 2 uien
   * 2﻿ teentjes knoflook
   * 1﻿ theelepel gember
   * 2﻿ theelepels koriander
@@ -19,14 +17,14 @@ R﻿ecept voor 4 personen
   * m﻿espunt nootmuskaat
   * m﻿espunt kardemom
   * m﻿espunt kruidnagel
+  * 2﻿ el olie
 * 2﻿ blokken tofu, uitgelekt
 * 3﻿00 gr aardappels
-* 1﻿ ui
 * 2﻿ el bruine basterdsuiker
-* 5﻿0 gr pinda's
-* 4﻿00 ml kokosmelk
-* 1﻿ el maizena
-* 3﻿00 gr sperziebonen
+* 10﻿0 gr pinda's
+* 8﻿00 ml kokosmelk
+* 600 gr sperziebonen
+* 1﻿/4 cup ketjap manis
 
 ## Bereiding
 
@@ -34,7 +32,7 @@ R﻿ecept voor 4 personen
 
 
 2. Bak de currypasta eventjes aan tot het begint te geuren.
-3. Voeg de kokosmelk, aardappel, ui, suiker en de pinda's toe.
-4. Breng aan de kook en laat vervolgens ca. 25 minuten sudderen tot het gaar is. Om de saus wat dikker te maken, kun je 1 eetlepel maizena mengen met 1 eetlepel koud water en dit een aantal minuten mee laten sudderen.
+3. Voeg de kokosmelk, aardappel, ketjap manis, suiker en de pinda's toe .
+4. Breng aan de kook en laat vervolgens ca. 20 minuten sudderen tot het gaar is. 
 5. B﻿ak ondertussen de gesneden tofu blokjes in 12-15 minuten in de airfryer op 180 graden.
-6. Kook de sperzieboontjes 5 minuutjes en voeg dan de laatste paar minuten toe aan de curry.
+6. Kook de sperzieboontjes 5 minuutjes en voeg dan de laatste paar minuten toe aan de curry, samen met de tofu blokjes
