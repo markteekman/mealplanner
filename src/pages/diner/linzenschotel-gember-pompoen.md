@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Rode Linzenschotel Gember Pompoen
+title: Ⓥ Rode Linzenschotel Gember Pompoen
 ---
 
 
