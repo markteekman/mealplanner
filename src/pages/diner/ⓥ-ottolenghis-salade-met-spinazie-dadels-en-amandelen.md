@@ -2,14 +2,12 @@
 layout: ../../layouts/Recipe.astro
 title: Ⓥ Ottolenghi's Salade met Spinazie, Dadels en Amandelen
 ---
-
-
 R﻿ecept voor 2 personen
 
 ## Ingrediënten
 
 * 1﻿ el witte wijnazijn
-* 1﻿ kleine rode ui, in dunne ringen
+* 1﻿ rode ui, in dunne ringen
 * 1﻿00 gr dadels, overlangs in vieren
 * 3﻿0 gr boter
 * 2﻿ el olijfolie
@@ -17,7 +15,7 @@ R﻿ecept voor 2 personen
 * 7﻿5 gr ongezouten amandelen, grof gehakt
 * 2﻿ tl sumak
 * 1﻿ tl cayennepoeder
-* 1﻿50 gr jonge spinazie
+* 200 gr jonge spinazie
 * 2﻿ el citroensap
 
 ## Bereiding
