@@ -34,3 +34,4 @@ R﻿ecept voor 12 cupcakes.
 
 * Andere noten soorten
 * Ahorn siroop in plaats van dadels
+* Appelstroop voor wat meer moisty zoetigheid
