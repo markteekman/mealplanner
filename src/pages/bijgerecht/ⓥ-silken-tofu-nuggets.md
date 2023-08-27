@@ -21,6 +21,8 @@ R﻿ecept voor 2 personen
 ## Bereiding
 
 1. Pers je tofu en zet de oven aan op 180 graden. 
+
+
 2. I﻿n een kom meng je de sojasaus, zonnebloemolie, knoflookpoeder, currypoeder en 1 tl paprikapoeder samen.
 3. Breek de tofu in grove stukken. Meng door je saus.
 4. V﻿oeg de laatste tl paprikapoeder en maizena toe en meng het geheel samen. 
