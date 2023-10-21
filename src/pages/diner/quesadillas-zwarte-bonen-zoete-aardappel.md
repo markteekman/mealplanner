@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Quesadillas Zwarte Bonen Zoete Aardappel
+title: Quesadillas met Zwarte Bonen en Zoete Aardappel
 ---
 R﻿ecept voor 2 personen
 
