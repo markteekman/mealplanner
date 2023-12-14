@@ -2,11 +2,9 @@
 layout: ../../layouts/Recipe.astro
 title: Frittata van Rode Bieten en Erwten
 ---
-
-
 R﻿ecept voor 4-5 personen
 
-15 m﻿in actief koken + 25min oventijd
+15 m﻿in actief koken + 25 min oventijd
 
 ## Ingrediënten
 
