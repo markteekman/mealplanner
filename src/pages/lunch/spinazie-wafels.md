@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Spinazie Wafels
+title: Ⓥ Spinazie Wafels
 ---
 
 
