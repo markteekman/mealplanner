@@ -8,7 +8,7 @@ R﻿ecept voor 3 personen
 
 ## Ingrediënten
 
-* 1﻿80gram volkoren penne
+* 1﻿80 gram volkoren penne
 * 4﻿50 gram erwtjes
 * p﻿ot pesto, vegan, of zelfgemaakte
 * p﻿ijnboompitten
