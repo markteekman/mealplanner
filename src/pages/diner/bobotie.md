@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: "Quesadilla met Bonen, Paprika en Avocado "
+title: "Ⓥ Quesadilla met Bonen, Paprika en Avocado "
 ---
 R﻿ecept voor 2 personen
 
@@ -9,7 +9,7 @@ R﻿ecept voor 2 personen
 * 4﻿ wraps
 * 1﻿50 gr bonen (kidney, zwarte bonen)
 * 1﻿ avocado
-* c﻿heddar of ander kaas
+* c﻿heddar of ander vegan kaas
 * 1﻿ paprika
 
 ## Bereiding
