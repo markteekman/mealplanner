@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: ✅ Volkoren Wraps
+title: Ⓥ Volkoren Wraps
 ---
 ![](/images/uploads/volkoren-wraps.jpg)
 
