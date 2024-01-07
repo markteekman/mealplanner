@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Avocado Champignons Balsamico
+title: Ⓥ Avocado Champignons Balsamico
 ---
 Avocado Champignons Balsamico
