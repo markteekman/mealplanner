@@ -9,7 +9,6 @@ R﻿ecept voor 2 personen
 * 1﻿ ui
 * 3﻿ teentjes knoflook
 * 2﻿ cm verse gember
-* 3﻿ tl koriander
 * 1﻿ tl kurkuma
 * 2﻿ tl paprikapoeder
 * 1﻿ el tomaten purree
@@ -24,8 +23,6 @@ R﻿ecept voor 2 personen
 ## Bereiding
 
 1. S﻿nij de ui en bak glazig. 
-
-
 2. V﻿oeg de geschilde en gesneden gember en knoflook toe en bak mee voor een minuutje. 
 3. S﻿poel je spliterwten schoon en schil en snijd de aardappelen in blokjes
 4. V﻿oeg alle overige ingrediënten toe en meng goed. 
