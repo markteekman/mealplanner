@@ -2,9 +2,9 @@
 layout: ../../layouts/Recipe.astro
 title: Ⓥ Kachumber salade
 ---
-R﻿ecept voor 
+R﻿ecept voor 2 personen
 
-m﻿in actief koken + min oventijd
+5 m﻿in actief koken
 
 ## Ingrediënten
 
