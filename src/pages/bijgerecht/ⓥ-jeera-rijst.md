@@ -20,5 +20,4 @@ R﻿ecept voor 2 personen
 
 1. K﻿ook de rijst volgens instructies gaar. Als dit gaar is voeg je 1 el boter toe en roer goed door. 
 2. Z﻿et een grote koekenpan op duur en verwarm de 2 el boter. Voeg 3 tl komijnzaad toe. Na 1 minuut voeg je je doperwten toe en na 2 minuten de gekookte rijst en zout. 
-3. Z﻿et het vuur laag, snij nog wat verse koriander takjes en voeg het toe en roer het geheel. Zet het vuur uit. 
-4. H﻿eerlijk met een curry of linzengerecht naar keuze.
+3. H﻿eerlijk met een curry of linzengerecht naar keuze.
