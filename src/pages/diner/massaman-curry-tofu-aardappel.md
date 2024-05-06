@@ -11,7 +11,7 @@ R﻿ecept voor 4 personen
   * 2 uien
   * 2﻿ teentjes knoflook
   * 1﻿ theelepel gember
-  * 2﻿ theelepels koriander
+  * 1 theelepel koriander
   * 1﻿ theelepel komijn
   * 1﻿/2 theelepel kaneel
   * m﻿espunt nootmuskaat
