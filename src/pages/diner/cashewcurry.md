@@ -11,7 +11,7 @@ R﻿ecept voor 2 personen
 * 2﻿ cm verse gember
 * 1﻿ tl kurkuma
 * 2﻿ tl paprikapoeder
-* 1﻿ el tomaten purree
+* 1﻿ el tomaten puree
 * 5﻿0 gr spliterwten
 * 100 gr aardappelen
 * 1﻿ cup kokosmelk
