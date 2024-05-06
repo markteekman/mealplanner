@@ -2,8 +2,6 @@
 layout: ../../layouts/Recipe.astro
 title: Ⓥ Kofta met curry
 ---
-
-
 R﻿ecept voor 2 personen
 
 ## Ingrediënten
@@ -14,7 +12,6 @@ R﻿ecept voor 2 personen
   * 2﻿50 gr aardappelen
   * 3﻿ el maisbloem
   * 1﻿ tl gember-knoflookpasta
-  * h﻿andje verse koriander
   * 1﻿/2 tl zout
   * 1﻿ tl garam masala
   * 1﻿/2 tl chilipoeder
