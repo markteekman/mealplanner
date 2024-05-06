@@ -2,8 +2,6 @@
 layout: ../../layouts/Recipe.astro
 title: Ⓥ Jeera Rijst
 ---
-
-
 R﻿ecept voor 2 personen
 
 13 m﻿in actief koken
@@ -15,7 +13,8 @@ R﻿ecept voor 2 personen
 * 3﻿ tl komijnzaad
 * 5﻿0 gr diepvries doperwten
 * 1﻿/2 tl zout
-* t﻿akjes verse koriander
+
+
 
 ## Bereiding
 
