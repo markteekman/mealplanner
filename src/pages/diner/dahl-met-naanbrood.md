@@ -12,7 +12,7 @@ R﻿ecept voor 2 personen
 * 2﻿ tenen knoflook
 * 1﻿ cm verse gember
 * 1﻿ tl kurkuma
-* 1﻿ tl garam masala
+* 1﻿ tl garam masala (aanpassen ivm koriander)
 * 1﻿ tl komijnpoeder
 * 4﻿00 ml kokosmelk
 * 4﻿00 gr tomatenblokjes
@@ -21,8 +21,6 @@ R﻿ecept voor 2 personen
 ## Bereiding
 
 1. W﻿as de linzen en kook ze samen met het bouillonblokje in 500 ml water in 10-15min gaar.
-
-
 2. S﻿nijd de ui en pers de knoflook en bak dit in een pan.
 3. S﻿chil en snij de gember en voeg dit samen met alle kruiden toe.
 4. G﻿iet als laatst de kokosmelk in de pan en voeg de tomatenblokjes. 
