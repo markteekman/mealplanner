@@ -2,8 +2,6 @@
 layout: ../../layouts/Recipe.astro
 title: Ⓥ Risotto met Pesto en Veldsla
 ---
-
-
 R﻿ecept voor 4 personen
 
 30 m﻿in actief koken
@@ -18,6 +16,7 @@ R﻿ecept voor 4 personen
 * 2﻿00 gr vega zuivelspread
 * 8﻿0 gr pesto
 * 8﻿5 gr veldsla
+* e﻿vt gebakken pijnboompitten ter garnering
 
 ## Bereiding
 
