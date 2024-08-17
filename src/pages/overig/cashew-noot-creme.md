@@ -1,5 +1,5 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Cashew Noot Creme
+title: Cashewnoot Creme
 ---
 <https://www.youtube.com/watch?v=tuPGYY-Ec5c>
