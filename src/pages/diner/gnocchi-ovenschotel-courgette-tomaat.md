@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Gnocchi Ovenschotel met Courgette en Tomaat
+title: Ⓥ  Gnocchi Ovenschotel met Courgette en Tomaat
 ---
 R﻿ecept voor 3 personen
 
