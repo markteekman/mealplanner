@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Tofu Sausjes
+title: Ⓥ Tofu Sausjes
 ---
 ## Bereiding
 
