@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Bananen Cupcakes
+title: Ⓥ  Bananen Cupcakes
 ---
 ![](/images/uploads/bananen-cupcakes.jpg)
 
