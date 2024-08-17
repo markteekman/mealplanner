@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Mango Salade Rucola Quinoa
+title: Ⓥ   Mango Salade Rucola Quinoa
 ---
 R﻿ecept voor 2-3 personen
 
