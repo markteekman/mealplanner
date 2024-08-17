@@ -16,7 +16,7 @@ R﻿ecept voor 8 stukjes
 * 1/4 cup cacao poeder
 * 1/3 tl zout
 
-Frosting 
+eventueel frosting voor eroverheen
 
 * * 3 el poedersuiker
   * 180 ml melk
@@ -31,7 +31,5 @@ Frosting
 5. Giet het in de pan en bak in 30-35 minuten gaar.
 6. Goed af laten koelen alvorens je de glazuur eroverheen giet. 
 7. Voor het glazuur: giet alles in de pan en breng langzaam aan de kook. Als de suikerkristallen zijn opgelost is het klaar en giet je het over je afgekoelde taart.
-
-
 
 Deze taart is het lekkerst de volgende dag.
