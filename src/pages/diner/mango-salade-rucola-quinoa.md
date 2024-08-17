@@ -2,15 +2,13 @@
 layout: ../../layouts/Recipe.astro
 title: Mango Salade Rucola Quinoa
 ---
-
-
 R﻿ecept voor 2-3 personen
 
 ## Ingrediënten
 
 * 1﻿50 gr quinoa
 * 1﻿ mango
-* 1﻿00 gr feta
+* 1﻿00 gr feta, plantaardig
 * 7﻿5 gr rucola
 * 6﻿ zongedroogde tomaten
 * 2﻿ el pijnboompitten
