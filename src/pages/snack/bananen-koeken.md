@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Bananen Koeken
+title: Ⓥ Bananen Koeken
 ---
 ## Ingrediënten
 
