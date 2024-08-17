@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: ✅ Muffins Kwark Haver
+title: Ⓥ Muffins Kwark Haver
 ---
 *Recept voor 12 muffins.*
 
