@@ -9,7 +9,6 @@ Lekker luchtig gebakken havermout cake, heerlijk als ontbijt, maar ook prima voo
 * 1 cup haver
 * 1/2 cup soja melk
 * 1 grote rijpe banaan
-* 2 eieren (optioneel)
 * 2 tbsp ahornsiroop
 * 1 tbsp pindakaas
 * 1/2 tsp bakpoeder
