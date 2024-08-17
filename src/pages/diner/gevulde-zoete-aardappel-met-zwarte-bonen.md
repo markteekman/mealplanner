@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ   Gevulde Zoete Aardappel met Zwarte Bonen en Sperziebonen
+title: Ⓥ  Gevulde Zoete Aardappel met Zwarte Bonen en Sperziebonen
 ---
 R﻿ecept voor 2 personen
 
