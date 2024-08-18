@@ -19,11 +19,11 @@ R﻿ecept voor 4 personen
   * k﻿noflookpoeder, uienpoeder en zout
   * g﻿erookte paprikapoeder, kerriepoeder, komijnpoeder en zout
 
-
-
 ## Bereiding
 
 1. V﻿erwarm de airfryer voor op 180gr.
+
+
 2. G﻿iet de kikkererwten af in een vergiet, spoel af onder koud water en laat goed uitlekken. 
 3. M﻿eng de kikkererwten met de olie en specerijenmix
 4. L﻿eg ze in het mandje van je airfryer en bak ze in circa 10-12m goudbruin en knapperig. Schud ze tussendoor eens of tweemaal zodat ze aan alle kanten bruin worden.
