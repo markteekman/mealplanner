@@ -2,13 +2,9 @@
 layout: ../../layouts/Recipe.astro
 title: Ⓥ Kersencrumble
 ---
-
-
 R﻿ecept voor 12 stukken
 
-m﻿in actief koken + min oventijd
-
-
+15 m﻿in actief koken + 30 min oventijd
 
 ## Ingrediënten
 
