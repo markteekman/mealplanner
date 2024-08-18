@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ  Gevulde Puntpaprika met Couscous, Rozijnen en Courgette
+title: Ⓥ Gevulde Puntpaprika met Couscous, Rozijnen en Courgette
 ---
 R﻿ecept voor 2 personen
 
