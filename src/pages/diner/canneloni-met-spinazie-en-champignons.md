@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ  Cannelloni met Spinazie en Champignons
+title: Ⓥ Cannelloni met Spinazie en Champignons
 ---
 R﻿ecept voor 2 personen
 
