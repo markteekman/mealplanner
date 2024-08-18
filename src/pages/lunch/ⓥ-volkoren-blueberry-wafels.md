@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Volkoren Blueberry Wafels
+title: Ⓥ Volkoren Blauwe Bessen Wafels
 ---
 
 
