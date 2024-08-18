@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ  Pasta Ovenschotel met Bloemkoolsaus
+title: Ⓥ Pasta Ovenschotel met Bloemkoolsaus
 ---
 Recept voor 3 personen
 
