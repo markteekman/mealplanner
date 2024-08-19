@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Flespompoen Gevuld met Noten, Kaas en Salie
+title: Ⓥ Flespompoen Gevuld met Noten, Kaas en Salie
 ---
 R﻿ecept voor 4-6 personen (6 personen indien meer bijgerechten)
 
@@ -12,7 +12,7 @@ R﻿ecept voor 4-6 personen (6 personen indien meer bijgerechten)
 * 2﻿ el olijfolie
 * 7﻿.5 gr salie blaadjes
 * 1﻿00 gr cranberry-notenmix
-* 1﻿00 gr oude kaas
+* 1﻿00 gr vegan oude (smelt)kaas
 * 1﻿25 gr haver fraiche
 
 ## Bereiding
