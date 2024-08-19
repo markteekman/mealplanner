@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Enchilada's met KidneybonenChili
+title: Ⓥ Enchilada's met KidneybonenChili
 ---
 R﻿ecept voor 4 personen
 
