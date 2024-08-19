@@ -4,7 +4,7 @@ title: Ⓥ Oven Pompoenrisotto Amandelen
 ---
 R﻿ecept voor 4 personen
 
-m﻿in actief koken + min oventijd
+15 m﻿in actief koken + 35 min oventijd
 
 ## Ingrediënten
 
