@@ -7,7 +7,7 @@ R﻿ecept voor 4 personen
 ## Ingrediënten
 
 * 3﻿00 gr zoete aardappelen
-* 1﻿00 gr cheddar/ plakjes cheddar of vegan kaas
+* 1﻿00 gr cheddar vegan kaas
 * 3﻿ bosuien
 * b﻿lik chilibonen
 * b﻿lik kidneybonen
