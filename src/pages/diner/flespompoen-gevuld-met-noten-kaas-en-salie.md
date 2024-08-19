@@ -18,6 +18,8 @@ R﻿ecept voor 4-6 personen (6 personen indien meer bijgerechten)
 ## Bereiding
 
 1. J﻿e kunt het een dag van tevoren vullen en bak voor het serveren de laatste 20-25 min af. 
+
+
 2. V﻿erwarm de oven voor op 200 graden. Halveer de pompoen in de lengte en verwijder de zaden en draderige binnenkant. Prik het vruchtvlees een paar keer met een vork. Besprenkel het een halve eetlepel olie en leg met de snijkant naar boven op een met bakpapier beklede bakplaat. Rooster in circa 45 minuten in de oven tot het vruchtvlees zacht is. 
 3. H﻿oud 6 blaadjes salie achter en snijd de rest fijn. Hak de noten grof en meng met de cranberry's door de salie. Rasp de kaas en meng met de haver fraiche.
 4. N﻿eem de pompoen uit de oven en zet deze op 180 graden. Laat de pompoen even 5 min afkoelen. Schep het vruchtvlees met een lepel uit de schil maar laat een rand van 1 cm zitten. 
