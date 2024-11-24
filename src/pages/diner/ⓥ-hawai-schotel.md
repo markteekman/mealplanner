@@ -20,7 +20,7 @@ R﻿ecept voor 3-4 porties
 * 5﻿0 ml water
 * e﻿vt 100ml sap
 * 1﻿/2 cup cashewnoten, gebrand.
-* k﻿ip hawaii kruidenmix
+* k﻿ip hawaii kruidenmix (bijv pak honig)
 
 ## Bereiding
 
