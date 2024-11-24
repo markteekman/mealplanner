@@ -2,8 +2,6 @@
 layout: ../../layouts/Recipe.astro
 title: Ⓥ Hawai Schotel
 ---
-
-
 R﻿ecept voor 3-4 porties
 
 30 m﻿in actief koken
@@ -22,6 +20,7 @@ R﻿ecept voor 3-4 porties
 * 5﻿0 ml water
 * e﻿vt 100ml sap
 * 1﻿/2 cup cashewnoten, gebrand.
+* k﻿ip hawaii kruidenmix
 
 ## Bereiding
 
