@@ -7,7 +7,7 @@ R﻿ecept voor 2 personen
 ## Ingrediënten
 
 * 1﻿ ui
-* 3﻿ teentjes knoflook
+* 2﻿ teentjes knoflook
 * 2﻿ cm verse gember
 * 0﻿,5 tl kurkuma
 * 1﻿ tl paprikapoeder
