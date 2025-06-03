@@ -22,7 +22,7 @@ R﻿ecept voor 2 personen
 
 1. S﻿nij de ui en bak glazig. 
 2. V﻿oeg de geschilde en gesneden gember en knoflook toe en bak mee voor een minuutje. 
-3. S﻿poel je spliterwten schoon en snijd de aardappelen in blokjes
+3. S﻿poel je spliterwten schoon en snijd de aardappelen in blokjes.
 4. V﻿oeg alle overige ingrediënten toe en meng goed. 
 5. D﻿oe een deksel over de pan en laat het zo'n 20-25 minuten sudderen. 
 6. I﻿ndien het teveel indikt kun je wat water of bouillon toevoegen.
