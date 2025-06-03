@@ -8,7 +8,7 @@ R﻿ecept voor 2 personen
 
 * 1﻿ ui
 * 2﻿ teentjes knoflook
-* 2﻿ cm verse gember
+* 1﻿,5 cm verse gember
 * 0﻿,5 tl kurkuma
 * 1﻿ tl paprikapoeder
 * 5﻿0 gr spliterwten
