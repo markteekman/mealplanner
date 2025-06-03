@@ -16,7 +16,7 @@ R﻿ecept voor 2 personen
 * 1﻿ blik kokosmelk (400ml)
 * 1 groentebouillonblokje
 * 0﻿,5 cup cashewnoten (geroosterd)
-* e﻿vt chili vlokken 
+* e﻿vt chili vlokken of 0,5 tl cayennepoeder
 
 ## Bereiding
 
