@@ -15,7 +15,7 @@ R﻿ecept voor 2 personen
 * 100 gr aardappelen
 * 1﻿ blik kokosmelk (400ml)
 * 1 groentebouillonblokje
-* 0﻿,5 cup cashewnoten
+* 0﻿,5 cup cashewnoten (geroosterd)
 * e﻿vt chili vlokken 
 
 ## Bereiding
