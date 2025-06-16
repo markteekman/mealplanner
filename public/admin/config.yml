@@ -17,7 +17,12 @@ collections:
     folder: 'src/pages/diner'
     create: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'hidden',
+          default: '../../layouts/Recipe.astro',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'bijgerecht'
@@ -25,7 +30,12 @@ collections:
     folder: 'src/pages/bijgerecht'
     create: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'hidden',
+          default: '../../layouts/Recipe.astro',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'lunch'
@@ -33,7 +43,12 @@ collections:
     folder: 'src/pages/lunch'
     create: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'hidden',
+          default: '../../layouts/Recipe.astro',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'ontbijt'
@@ -41,7 +56,12 @@ collections:
     folder: 'src/pages/ontbijt'
     create: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'hidden',
+          default: '../../layouts/Recipe.astro',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'snack'
@@ -49,7 +69,12 @@ collections:
     folder: 'src/pages/snack'
     create: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'hidden',
+          default: '../../layouts/Recipe.astro',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'overig'
@@ -57,14 +82,37 @@ collections:
     folder: 'src/pages/overig'
     create: true
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'hidden',
+          default: '../../layouts/Recipe.astro',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }     
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'zoetig'
+    label: 'Zoetig'
+    folder: 'src/pages/zoetig'
+    create: true
+    fields:
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'hidden',
+          default: '../../layouts/Recipe.astro',
+        }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'voorbeeld'
     label: 'Voorbeeld'
     folder: 'src/pages/voorbeeld'
     create: false
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: '../../layouts/Recipe.astro' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'hidden',
+          default: '../../layouts/Recipe.astro',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' } 
+      - { label: 'Body', name: 'body', widget: 'markdown' }
