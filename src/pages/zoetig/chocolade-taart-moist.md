@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Chocolade Taart, Moist
+title: Ⓥ Chocolade Taart, Moist
 ---
 
 
