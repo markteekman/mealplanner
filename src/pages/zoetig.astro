@@ -1,0 +1,18 @@
+---
+import Layout from '../layouts/Layout.astro'
+import RecipeCard from '../components/RecipeCard.astro'
+
+const allSweets = await Astro.glob('./zoetig/*.md')
+---
+
+<Layout title="Zoetig">
+  <h1>🍰 Zoetig</h1>
+  <p class="size-20">Taarten, koekjes, desserts en andere zoetigheden om je dag mee af te sluiten!</p>
+  <ul class="recipes">
+    {allSweets.filter((sweet) => sweet.url).map((sweet) => (
+      <RecipeCard href={sweet.url!}>
+        {sweet.frontmatter.title}
+      </RecipeCard>
+    ))}
+  </ul>
+</Layout> 
