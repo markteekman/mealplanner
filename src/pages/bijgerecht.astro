@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro'
 import RecipeCard from '../components/RecipeCard.astro'
 
-const allSidedish = await Astro.glob('./bijgerecht/*.md')
+const allSidedish = Object.values(import.meta.glob('./bijgerecht/*.md', { eager: true }))
 ---
 
 <Layout title="Bijgerecht">

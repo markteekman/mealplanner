@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro'
 import RecipeCard from '../components/RecipeCard.astro'
 
-const allOthers = await Astro.glob('./overig/*.md')
+const allOthers = Object.values(import.meta.glob('./overig/*.md', { eager: true }))
 ---
 
 <Layout title="Overig">

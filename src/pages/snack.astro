@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro'
 import RecipeCard from '../components/RecipeCard.astro'
 
-const allSnacks = await Astro.glob('./snack/*.md')
+const allSnacks = Object.values(import.meta.glob('./snack/*.md', { eager: true }))
 ---
 
 <Layout title="Snack">
