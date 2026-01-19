@@ -14,7 +14,6 @@ Recept voor 9 cookies
 * 1﻿,5 tl speculaaskruiden
 * 7﻿ drops vanille stevia
 * 30 gr water
-*
 * 3﻿0 gram pure chocola stukjes (4 gr proteine) 174 kcal
 
 ## Bereiding
