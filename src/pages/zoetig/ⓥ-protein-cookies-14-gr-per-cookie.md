@@ -1,19 +1,21 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Protein Cookies (14 gr per cookie)
+title: Ⓥ Protein Cookies (14 gr proteine per cookie, 226 kcal)
 ---
-
-
 Recept voor 9 cookies
 
 ## Ingrediënten
 
-* 28 gram stevia. (0 gr proteine)
-* 2﻿60 gr 100% pindakaas (70 gr proteine)
-* 1﻿ ei (6 gr proteine)
-* 5﻿5 gr proteinepoeder (42 gr proteine)
-* 6﻿0 gr sojamelk (1 gr proteine)
-* 3﻿0 gram pure chocola stukjes (4 gr proteine)
+* 28 gram stevia. (0 gr proteine) 0 kcal
+* 2﻿60 gr 100% pindakaas (70 gr proteine) 1552kcal
+* 1﻿ ei (6 gr proteine) 80 kcal
+* 5﻿5 gr proteinepoeder (42 gr proteine) 212 kcal
+* 6﻿0 gr sojamelk (1 gr proteine) 19 kcal
+* 1﻿,5 tl speculaaskruiden
+* 7﻿ drops vanille stevia
+* 30 gr water
+*
+* 3﻿0 gram pure chocola stukjes (4 gr proteine) 174 kcal
 
 ## Bereiding
 
