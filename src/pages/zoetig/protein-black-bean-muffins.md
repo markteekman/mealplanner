@@ -2,8 +2,6 @@
 layout: ../../layouts/Recipe.astro
 title: "Protein Black Bean Muffins. "
 ---
-
-
 Recept voor 12 muffins. 7,5gr eiwit 172kcal per muffin.
 
 ## Ingrediënten
@@ -12,6 +10,7 @@ Recept voor 12 muffins. 7,5gr eiwit 172kcal per muffin.
 * 3﻿00ml sojamelk
 * 8﻿0 gr ongezoete appelmoes
 * klein scheutje olijfolie
+* 1﻿ ei
 * 1﻿50 gr ontpitte dadels
 * 2﻿50 gr speltbloem
 * 3﻿ el cacaopoeder
