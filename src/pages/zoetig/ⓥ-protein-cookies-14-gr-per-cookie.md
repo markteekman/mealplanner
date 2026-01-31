@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Protein Muffings (7,5 gr proteine en172 kcal per muffin)
+title: Ⓥ Protein Muffins (7,5 gr proteine en172 kcal per muffin)
 ---
 Recept voor 12 muffins. 7,5gr eiwit per muffin.
 
