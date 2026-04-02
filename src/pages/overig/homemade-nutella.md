@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Homemade Nutella
+title: Ⓥ Chocolade Hazelnootpasta
 ---
 R﻿ecept voor 1 pot
 
