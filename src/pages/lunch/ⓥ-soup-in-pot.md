@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Ⓥ Spinazie Wafels
+title: Ⓥ Soup Pots
 ---
 
 R﻿ecept voor 6 soup pots
