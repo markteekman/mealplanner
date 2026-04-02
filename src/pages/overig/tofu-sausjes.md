@@ -31,10 +31,12 @@ title: Ⓥ Tofu Sausjes
 * S﻿impel Tofu
 
   * 2﻿ el sojasaus
-  * 1﻿ el water
-  * 1﻿ el bruine basterdsuiker
-  * 0﻿,5 el sesamolie
-  * 0﻿,5 el maizena
+  * 2 el honing
+  * 3 el ketjap manis
+  * 1﻿ tl kerriepoeder
+  * 1﻿ tl paprikapoeder
+
+
 * A﻿ziatische Tofu
 
   * 3﻿ el sojasaus
