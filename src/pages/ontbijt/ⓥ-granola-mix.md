@@ -15,7 +15,7 @@ title: Ⓥ Granola Mix
 * 2﻿0 gr kikkererwtenmeel
 * 2﻿5 gr p﻿ompoenpitten, gehakt
 * 11 g c﻿acaopoeder 
-* 8﻿0 gr honing
+* 90 gr honing
 * 8﻿0 gr pindakaas
 * grote snuf kaneel
 * s﻿nuf zout
