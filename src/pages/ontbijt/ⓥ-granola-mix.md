@@ -4,8 +4,6 @@ title: Ⓥ Granola Mix
 ---
 5 min actief koken + 25 min oventijd
 
-
-
 ## Ingrediënten
 
 * 2﻿00 gr havermout
@@ -14,6 +12,7 @@ title: Ⓥ Granola Mix
 * 2﻿5 gr pecan, gehakt
 * 5﻿0 gr amandelen, gehakt
 * 60 gr r﻿ozijn of cranberry 
+* 2﻿0 gr kikkererwtenmeel
 * 2﻿5 gr p﻿ompoenpitten, gehakt
 * 11 g c﻿acaopoeder 
 * 8﻿0 gr honing
@@ -24,7 +23,5 @@ title: Ⓥ Granola Mix
 ## Bereiding
 
 1. Meng alle ingrediënten in een kom goed door elkaar en verdeel het mengsel over een met bakpapier beklede bakplaat.
-
-
 2. Bak het in een voorverwarmde oven op 160 °C gedurende 25 minuten. Schep het mengsel halverwege even om.
 3. Laat het volledig afkoelen op de bakplaat en bewaar het daarna in een goed afgesloten pot.
