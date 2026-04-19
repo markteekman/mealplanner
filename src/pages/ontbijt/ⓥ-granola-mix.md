@@ -16,8 +16,8 @@ V﻿oedingswaarde per portie: 199 calorieën, 10,1 eiwitten, 4,5 vezels
 * 2﻿5 gr pecan, gehakt
 * 5﻿0 gr amandelen, gehakt
 * 60 gr r﻿ozijn of cranberry 
-* 10 gr kikkererwtenmeel (voor proteine)
-* 1﻿0 gr lijnzaadmeel (voor proteine)
+* 10 gr kikkererwtenmeel (voor proteïne)
+* 1﻿0 gr lijnzaadmeel (voor proteïne)
 * 2﻿5 gr p﻿ompoenpitten, gehakt
 * 11 g c﻿acaopoeder 
 * 85 gr honing
