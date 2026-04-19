@@ -23,10 +23,10 @@ V﻿oedingswaarde per portie:
 * 85 gr honing
 * 8﻿0 gr pindakaas
 * grote snuf kaneel
-* s﻿nuf zout
+* s﻿nuf zout 
 
 ## Bereiding
 
-1. Meng alle ingrediënten in een kom goed door elkaar en verdeel het mengsel over een met bakpapier beklede bakplaat.
+1. Meng alle ingrediënten in een kom (het makkelijkst is met je handen of in een keukenmachine) goed door elkaar en verdeel het mengsel over een met bakpapier beklede bakplaat.
 2. Bak het in een voorverwarmde oven op 160 °C gedurende 25 minuten. Schep het mengsel halverwege even om.
 3. Laat het volledig afkoelen op de bakplaat en bewaar het daarna in een goed afgesloten pot.
