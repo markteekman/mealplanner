@@ -6,7 +6,7 @@ title: Ⓥ Granola Mix
 
 1﻿ recept = 1 volle bakplaat (= 13 porties van 45 gram)
 
-V﻿oedingswaarde per portie: 199 calorieën, 10,1 eiwitten, 4,5 vezels
+V﻿oedingswaarde per portie: 199 calorieën, 10 eiwitten, 4,5 vezels
 
 ## Ingrediënten
 
