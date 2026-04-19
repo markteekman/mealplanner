@@ -4,7 +4,7 @@ title: Ⓥ Granola Mix
 ---
 5 min actief koken + 25 min oventijd
 
-1﻿ recept = 1 volle bakplaat (= porties van 45 gram)
+1﻿ recept = 1 volle bakplaat (= 13 porties van 45 gram)
 
 V﻿oedingswaarde per portie: 
 
