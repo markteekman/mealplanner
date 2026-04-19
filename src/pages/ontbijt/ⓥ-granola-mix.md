@@ -4,6 +4,10 @@ title: Ⓥ Granola Mix
 ---
 5 min actief koken + 25 min oventijd
 
+1﻿ recept = 1 volle bakplaat (= porties van 45 gram)
+
+V﻿oedingswaarde per portie: 
+
 ## Ingrediënten
 
 * 2﻿00 gr havermout
@@ -12,10 +16,11 @@ title: Ⓥ Granola Mix
 * 2﻿5 gr pecan, gehakt
 * 5﻿0 gr amandelen, gehakt
 * 60 gr r﻿ozijn of cranberry 
-* 2﻿0 gr kikkererwtenmeel
+* 10 gr kikkererwtenmeel (voor proteine)
+* 1﻿0 gr lijnzaadmeel (voor proteine)
 * 2﻿5 gr p﻿ompoenpitten, gehakt
 * 11 g c﻿acaopoeder 
-* 90 gr honing
+* 85 gr honing
 * 8﻿0 gr pindakaas
 * grote snuf kaneel
 * s﻿nuf zout
