@@ -4,24 +4,22 @@ title: Ⓥ Granola Mix
 ---
 5 min actief koken + 25 min oventijd
 
-1﻿ recept = 1 volle bakplaat = 13 porties van 45 gram
+1﻿ recept = 2 volle bakplaten = 26 porties van 45 gr 
 
 V﻿oedingswaarde per portie: 199 calorieën, 10 eiwitten, 4,5 vezels
 
 ## Ingrediënten
 
-* 2﻿00 gr havermout
-* 2﻿5 gr chia
-* 2﻿5 gr lijnzaad
-* 2﻿5 gr pecan, gehakt
-* 5﻿0 gr amandelen, gehakt
-* 60 gr r﻿ozijn of cranberry 
-* 10 gr kikkererwtenmeel (voor proteïne)
-* 1﻿0 gr lijnzaadmeel (voor proteïne)
-* 2﻿5 gr p﻿ompoenpitten, gehakt
-* 11 g c﻿acaopoeder 
-* 85 gr honing
-* 8﻿0 gr pindakaas
+* 400 gr havermout
+* 50 gr chiazaad
+* 150 gr noten, gehakt
+* 20 gr kikkererwtenmeel (voor proteïne)
+* 20 gr lijnzaadmeel (voor proteïne)
+* 50 gr p﻿ompoenpitten, gehakt
+* 50 gr lijnzaad, gehakt
+* 22 g c﻿acaopoeder 
+* 170 gr honing
+* 1﻿60 gr pindakaas
 * grote snuf kaneel
 * s﻿nuf zout 
 
