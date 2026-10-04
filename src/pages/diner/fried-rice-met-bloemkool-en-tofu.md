@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/Recipe.astro
-title: Fried Rice met Bloemkool en Tofu
+title: Ⓥ Fried Rice met Bloemkool en Tofu
 ---
 
 
