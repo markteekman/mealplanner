@@ -11,7 +11,7 @@ R﻿ecept voor 4 personen
 * 2﻿50 gr cherrytomaten
 * 400 gr tomatenblokjes(blik)
 * 1﻿ ui
-* z﻿akje vega kaas, geraspt of broodkruim
+* z﻿akje (vega) kaas, geraspt 
 * 2﻿ tl italiaanse kruiden
 * e﻿vt peper en zout
 
