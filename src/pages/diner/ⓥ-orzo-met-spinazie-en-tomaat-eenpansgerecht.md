@@ -2,11 +2,9 @@
 layout: ../../layouts/Recipe.astro
 title: "Ⓥ Orzo met Spinazie en Tomaat eenpansgerecht "
 ---
-Recept voor 4 personen
+Recept voor 5 personen
 
 25 min actief koken
-
-
 
 ## Ingrediënten
 
